@@ -3,5 +3,5 @@ projectKey=org.example:practica-calificada-1-cubicles
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.24170
 dashboardUrl=https://sonarcloud.io/dashboard?id=org.example%3Apractica-calificada-1-cubicles
-ceTaskId=AXyuh1pPtayAr-CRsvDZ
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXyuh1pPtayAr-CRsvDZ
+ceTaskId=AXyvTXmEC24cFpFL6Lt1
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXyvTXmEC24cFpFL6Lt1

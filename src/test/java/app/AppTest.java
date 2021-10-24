@@ -6,7 +6,7 @@ import org.junit.Test;
 public class AppTest {
 
     @Test
-    public void main() {
+    public void Test01() {
         App.main(new String[0]);
         Assert.assertTrue(true);
     }

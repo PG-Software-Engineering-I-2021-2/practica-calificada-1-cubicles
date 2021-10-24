@@ -15,7 +15,14 @@ getClass(),java.lang.Object#getClass()Ljava/lang/Class;5
 notifyAll()java.lang.Object#notifyAll()V"
 wait()java.lang.Object#wait()V*
 
-hashCode()java.lang.Object#hashCode()I{
+hashCode()java.lang.Object#hashCode()IÅ
+	app.Avionjava.lang.Object
+<init>()app.Avion#<init>()V„
+2buscarVuelos(Ljava/lang/String;Ljava/lang/String;)Napp.Avion#buscarVuelos(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;»
+
+app.Facadejava.lang.Objecty
+,buscar(Ljava/lang/String;Ljava/lang/String;)Iapp.Facade#buscar(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; 
+<init>()app.Facade#<init>()V{
 app.Appjava.lang.Object
 <init>()app.App#<init>()V?
 main([Ljava/lang/String;)"app.App#main([Ljava/lang/String;)V¾^
