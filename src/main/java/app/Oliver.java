@@ -1,37 +1,44 @@
 package app;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Map;
+import java.util.HashMap;
 
 public class Oliver {
     private static Oliver instance;
-    private
-
+    private Map<Integer, Oferta> ofertas = new HashMap<>();
+    private Map<Integer, Autor> autores = new HashMap<>();
+    private Map<Integer, LibrosAutor> LibrosAutores = new HashMap<>();
 
     private Oliver(){
     }
 
     public Boolean consultarAutor(String autor){
-        Autor.exists(autor);
+        // Revisar si el autor se encuentra en la lista de autores
+        return true;
     }
 
-    public Boolean consultarAutorLibros(String autor){
-        LibrosAutor.detalle(autor);
+    public Integer consultarAutorLibros(String autor){
+        // Revisar la cantidad de libros por autor
+        return 1;
     }
 
-    public ArrayList getLibrosPorAutor(String autor){
-        Libro.getListaPorAutor(autor);
+    public void getLibrosPorAutor(String autor){
+        // Obtener los libros por autor en una lista
     }
 
     public Boolean consultarStock(String nombrelibro){
-        Libro.getStock(nombrelibro);
+        // Consultar por el stock del libro deseado
+        // Libro.getStock(nombrelibro);
+        return true;
     }
 
     public void registrarDatos(String celular, String correo){
-        Waitlist.put(celular, correo);
+        //Waitlist.put(celular, correo);
     }
 
-    public void ofertar(){
-        if
+    public Boolean ofertar(){
+        return true;
     }
 
     // Empleamos Singleton para tener un solo Oliver

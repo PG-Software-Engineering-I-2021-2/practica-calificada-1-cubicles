@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a1857b-9aa9-466d-a511-950e8c9371b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/app/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/app/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/LibrosAutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/LibrosAutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Oferta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Oferta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Oliver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Oliver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/app/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Oferta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/Oferta.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/practica-calificada-1-cubicles-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/practica-calificada-1-cubicles-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/all.typedefs" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/all.typedefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_0.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_0.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_1.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_2.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_2.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_3.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_3.proto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-app.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-app.AppTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/app.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/app.AppTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/app/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/app/AppTest.class" afterDir="false" />

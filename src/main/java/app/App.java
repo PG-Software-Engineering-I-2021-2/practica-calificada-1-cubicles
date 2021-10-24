@@ -7,5 +7,6 @@ public class App {
 
     public static void main(String[] args) {
         logger.info("Se inicia la aplicación");
+        // LLamar a una fachada con la sucesión de eventos para consultar a Oliver
     }
 }
